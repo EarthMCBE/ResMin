@@ -1,0 +1,8 @@
+name: ResMin
+main: com.wyattgahm.resmin.ResMin
+version: "1.0.1"
+api: ["1.0.5"]
+load: POSTWORLD
+author: Wyatt Gahm
+description: Minimum block limit for the residence plugin
+prefix: "ResMin"
